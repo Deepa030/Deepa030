@@ -1,4 +1,4 @@
-<img align="center" src="https://assets.website-files.com/634681057b887c6f4830fae2/6367ddcdcaac03478d077305_62c5ecdd62c665518919f68d_Dev%2520Experience.png"/>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*s80xLYgbrwbXgEuuDBR5mw.jpeg"/>
 <h1 align="center">Hi 👋, I'm Deepa B M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" />
